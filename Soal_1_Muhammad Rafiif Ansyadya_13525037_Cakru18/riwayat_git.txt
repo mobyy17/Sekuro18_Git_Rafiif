@@ -1,0 +1,6 @@
+*   0acbc59 fix : resolve merge conflict
+|\  
+| * 601f274 feat : tambahkan komentar versi 1 pada main.cpp
+* | 5d82cfc feat : tambahkan komentar versi 2 pada main.cpp
+|/  
+* a30d957 inisiasi github
